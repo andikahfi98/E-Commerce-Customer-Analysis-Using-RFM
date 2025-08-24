@@ -1,3 +1,5 @@
+Analyzes customer behavior through Recency, Frequency, and Monetary (RFM) segmentation, providing insights into 792 customers and 8,047 transactions. It highlights key customer segments like "Champions," "Loyal Customers," and "At Risk," helping businesses identify high-value customers and those at risk of churn. The analysis aids in developing targeted strategies to retain valuable customers and improve overall profitability.
+
 # E-Commerce Customer Analysis Using RFM
 
 This repository demonstrates an analysis of customer behavior for XYZ E-Commerce using **RFM (Recency, Frequency, Monetary)** modeling. The goal is to identify top customers, understand purchasing patterns, and develop actionable strategies to boost customer loyalty and retention.
